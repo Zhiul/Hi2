@@ -1,2 +1,2 @@
 # Hi2
-Git Practice
+This is Zhiul's first Git Project!
